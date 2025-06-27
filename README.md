@@ -1,3 +1,5 @@
+[![pub package](https://img.shields.io/pub/v/prayer_times_helper.svg)](https://pub.dev/packages/prayer_times_helper)
+
 # prayer_times_helper
 
 A simple Dart package to get today’s Islamic prayer times and the next upcoming prayer. This package is lightweight, offline, and easy to use — perfect for prayer-based apps or mosque utility tools.
