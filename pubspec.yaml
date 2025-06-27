@@ -3,7 +3,7 @@ description: A simple Flutter package to get today's Islamic prayer times and th
 version: 1.0.0
 homepage: https://github.com/Muhaiminkpm/prayer_times_helper
 repository: https://github.com/Muhaiminkpm/prayer_times_helper
-publish_to: 'https://pub.dev'
+
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
