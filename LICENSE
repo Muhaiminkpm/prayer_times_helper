@@ -1,1 +1,30 @@
-TODO: Add your license here.
+
+✅ Save this into your package folder's `README.md`.
+
+---
+
+## ✅ Step 2: Confirm `LICENSE` File
+
+You've already uploaded the `LICENSE` file — perfect!  
+Make sure it's in your root folder and is valid (MIT, BSD, etc.).
+
+---
+
+## ✅ Step 3: Check `pubspec.yaml`
+
+Here’s a clean version — make sure your file looks like this:
+
+```yaml
+name: prayer_times_helper
+description: A simple package to get today's Islamic prayer times and next prayer info.
+version: 1.0.0
+homepage: https://github.com/Muhaiminkpm/prayer_times_helper
+repository: https://github.com/Muhaiminkpm/prayer_times_helper
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+# No need to list your own package here
