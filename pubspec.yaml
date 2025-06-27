@@ -1,6 +1,6 @@
 name: prayer_times_helper
 description: A simple Flutter package to get today's Islamic prayer times and the next upcoming prayer.
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/Muhaiminkpm/prayer_times_helper
 repository: https://github.com/Muhaiminkpm/prayer_times_helper
 
